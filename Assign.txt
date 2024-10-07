@@ -1,0 +1,9 @@
+.Enter Saved Contact number->
+2.Enter Unsaved Contact number->
+Enter your choice(1 or 2):->1
+# For saved Contacts
+Enter number of Contacts to add(count)->1
+Enter contact name(text)->Shaurya
+# For unsaved Contacts
+Enter number of unsaved Contacts to add(count)->1
+Enter unsaved contact number with country code(interger)->919899123456
